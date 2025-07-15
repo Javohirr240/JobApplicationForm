@@ -1,0 +1,44 @@
+body{
+    background-color: #E0F0FD;
+    font-family: Inter, sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+}
+.container{
+    width: 800px;
+    margin: 100px auto;
+    background-color: #FFFFFF;
+    padding: 60px;
+    border-radius: 10px;
+}
+h1{
+    font-size: 32px;
+    font-weight: 600;
+    color: rgb(44, 51, 69);
+    line-height: 46px;
+}
+h2{
+    font-weight: 500;
+    font-size: 16px;
+    color: rgb(44, 51, 69);
+}
+p{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+    color: rgb(44, 51, 69);
+}
+label{
+    font-size: 12px;
+    font-weight: 400;
+    color: rgb(70, 77, 95);
+}
+span{
+    color: red;
+}
+table{
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid black;
+}
